@@ -1,0 +1,20 @@
+.first-session{
+    background-image: url(assets/bg-img.jpg);
+    background-image: linear-gradient(to top,rgba(0,0,0,0.),rgb(0,0,0,0.4));
+}
+.logo{
+    width: 200px;
+}
+h1{
+    font-weight: 900!important;
+    font-size: 3rem !important;
+}
+ul>li{
+    list-style: none;
+}
+ul>li>a{
+    color: rgb(215, 211, 211);
+}
+input{
+    background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0));
+}
